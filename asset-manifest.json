@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text_parsher/static/css/main.f855e6bc.css",
+    "main.js": "/text_parsher/static/js/main.6ceef306.js",
+    "static/js/592.63a3cbcc.chunk.js": "/text_parsher/static/js/592.63a3cbcc.chunk.js",
+    "index.html": "/text_parsher/index.html",
+    "main.f855e6bc.css.map": "/text_parsher/static/css/main.f855e6bc.css.map",
+    "main.6ceef306.js.map": "/text_parsher/static/js/main.6ceef306.js.map",
+    "592.63a3cbcc.chunk.js.map": "/text_parsher/static/js/592.63a3cbcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ceef306.js"
+  ]
+}
